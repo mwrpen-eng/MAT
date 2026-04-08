@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mat-2-4
+    name: mowiairtool
     runtime: node
     plan: starter
     autoDeploy: true
