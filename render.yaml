@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mowi-air-tool-demo
+    name: mat-2-4
     runtime: node
     plan: starter
     autoDeploy: true
